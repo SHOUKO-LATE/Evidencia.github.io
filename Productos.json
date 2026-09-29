@@ -1,0 +1,1150 @@
+ [
+  {
+    "id": 1,
+    "nombre": "Tenis deportivos",
+    "categoria": "Calzado",
+    "precio": 799,
+    "precioAnterior": 999,
+    "descuento": 20,
+    "descripcion": "Tenis cómodos para uso diario.",
+    "detalle": "Diseño deportivo, ligero y resistente.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/tenis-deportivos-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/tenis-deportivos-blanco.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/tenis-deportivos-rojo.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Audífonos inalámbricos",
+    "categoria": "Electrónica",
+    "precio": 599,
+    "precioAnterior": 799,
+    "descuento": 25,
+    "descripcion": "Audífonos inalámbricos con gran sonido.",
+    "detalle": "Conexión Bluetooth y batería de larga duración.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/audifonos-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/audifonos-blanco.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Playera básica",
+    "categoria": "Ropa",
+    "precio": 299,
+    "precioAnterior": 399,
+    "descuento": 25,
+    "descripcion": "Playera cómoda para todos los días.",
+    "detalle": "Tela suave y diseño moderno.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/playera-negra.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/playera-blanca.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/playera-azul.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/playera-roja.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Smartwatch",
+    "categoria": "Electrónica",
+    "precio": 899,
+    "precioAnterior": 1199,
+    "descuento": 25,
+    "descripcion": "Reloj inteligente con múltiples funciones.",
+    "detalle": "Pantalla digital, actividad física y notificaciones.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/smartwatch-negro.jpg"
+      },
+      {
+        "nombre": "Plata",
+        "imagen": "imagenes/smartwatch-plata.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Sudadera",
+    "categoria": "Ropa",
+    "precio": 649,
+    "precioAnterior": 799,
+    "descuento": 19,
+    "descripcion": "Sudadera cómoda y abrigadora.",
+    "detalle": "Ideal para días fríos y uso casual.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/sudadera-negra.jpg"
+      },
+      {
+        "nombre": "Gris",
+        "imagen": "imagenes/sudadera-gris.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/sudadera-roja.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Mochila",
+    "categoria": "Accesorios",
+    "precio": 499,
+    "precioAnterior": 699,
+    "descuento": 29,
+    "descripcion": "Mochila resistente para uso diario.",
+    "detalle": "Amplio espacio para escuela, trabajo o viajes.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/mochila-negra.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/mochila-azul.jpg"
+      },
+      {
+        "nombre": "Rosa",
+        "imagen": "imagenes/mochila-rosa.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Gorra",
+    "categoria": "Accesorios",
+    "precio": 199,
+    "precioAnterior": 299,
+    "descuento": 33,
+    "descripcion": "Gorra casual ajustable.",
+    "detalle": "Diseño cómodo para uso diario.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/gorra-negra.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/gorra-blanca.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/gorra-roja.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Pantalón",
+    "categoria": "Ropa",
+    "precio": 599,
+    "precioAnterior": 799,
+    "descuento": 25,
+    "descripcion": "Pantalón cómodo y resistente.",
+    "detalle": "Diseño versátil para diferentes ocasiones.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/pantalon-negro.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/pantalon-azul.jpg"
+      },
+      {
+        "nombre": "Gris",
+        "imagen": "imagenes/pantalon-gris.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Chaqueta",
+    "categoria": "Ropa",
+    "precio": 899,
+    "precioAnterior": 1199,
+    "descuento": 25,
+    "descripcion": "Chaqueta moderna y abrigadora.",
+    "detalle": "Material resistente para clima frío.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/chaqueta-negra.jpg"
+      },
+      {
+        "nombre": "Gris",
+        "imagen": "imagenes/chaqueta-gris.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/chaqueta-azul.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Sandalias",
+    "categoria": "Calzado",
+    "precio": 299,
+    "precioAnterior": 399,
+    "descuento": 25,
+    "descripcion": "Sandalias ligeras y cómodas.",
+    "detalle": "Ideales para uso diario.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/sandalias-negras.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/sandalias-blancas.jpg"
+      },
+      {
+        "nombre": "Café",
+        "imagen": "imagenes/sandalias-cafe.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Botas casuales",
+    "categoria": "Calzado",
+    "precio": 899,
+    "precioAnterior": 1199,
+    "descuento": 25,
+    "descripcion": "Botas casuales resistentes.",
+    "detalle": "Diseño cómodo para uso diario.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/botas-negras.jpg"
+      },
+      {
+        "nombre": "Café",
+        "imagen": "imagenes/botas-cafe.jpg"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Tenis casuales",
+    "categoria": "Calzado",
+    "precio": 699,
+    "precioAnterior": 899,
+    "descuento": 22,
+    "descripcion": "Tenis casuales modernos y cómodos.",
+    "detalle": "Perfectos para combinar con diferentes estilos.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/tenis-casuales-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/tenis-casuales-blanco.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/tenis-casuales-azul.jpg"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Cinturón",
+    "categoria": "Accesorios",
+    "precio": 249,
+    "precioAnterior": 349,
+    "descuento": 29,
+    "descripcion": "Cinturón clásico para uso diario.",
+    "detalle": "Material resistente y diseño elegante.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/cinturon-negro.jpg"
+      },
+      {
+        "nombre": "Café",
+        "imagen": "imagenes/cinturon-cafe.jpg"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Cartera",
+    "categoria": "Accesorios",
+    "precio": 299,
+    "precioAnterior": 399,
+    "descuento": 25,
+    "descripcion": "Cartera compacta y elegante.",
+    "detalle": "Espacio para tarjetas, billetes y documentos.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/cartera-negra.jpg"
+      },
+      {
+        "nombre": "Café",
+        "imagen": "imagenes/cartera-cafe.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/cartera-roja.jpg"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Bolsa casual",
+    "categoria": "Accesorios",
+    "precio": 499,
+    "precioAnterior": 699,
+    "descuento": 29,
+    "descripcion": "Bolsa casual para uso diario.",
+    "detalle": "Diseño práctico con amplio espacio.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/bolsa-negra.jpg"
+      },
+      {
+        "nombre": "Rosa",
+        "imagen": "imagenes/bolsa-rosa.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/bolsa-blanca.jpg"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Teclado mecánico",
+    "categoria": "Electrónica",
+    "precio": 899,
+    "precioAnterior": 1199,
+    "descuento": 25,
+    "descripcion": "Teclado mecánico para computadora.",
+    "detalle": "Teclas resistentes y respuesta rápida.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/teclado-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/teclado-blanco.jpg"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "Mouse inalámbrico",
+    "categoria": "Electrónica",
+    "precio": 399,
+    "precioAnterior": 499,
+    "descuento": 20,
+    "descripcion": "Mouse inalámbrico cómodo y preciso.",
+    "detalle": "Conexión inalámbrica y diseño ergonómico.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/mouse-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/mouse-blanco.jpg"
+      },
+      {
+        "nombre": "Rosa",
+        "imagen": "imagenes/mouse-rosa.jpg"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "Monitor LED",
+    "categoria": "Electrónica",
+    "precio": 2999,
+    "precioAnterior": 3499,
+    "descuento": 14,
+    "descripcion": "Monitor LED para computadora.",
+    "detalle": "Pantalla de alta calidad para trabajo y entretenimiento.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/monitor-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/monitor-blanco.jpg"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "Bocina Bluetooth",
+    "categoria": "Electrónica",
+    "precio": 699,
+    "precioAnterior": 899,
+    "descuento": 22,
+    "descripcion": "Bocina Bluetooth portátil.",
+    "detalle": "Sonido potente y batería de larga duración.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/bocina-negra.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/bocina-azul.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/bocina-roja.jpg"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "Power Bank",
+    "categoria": "Electrónica",
+    "precio": 499,
+    "precioAnterior": 699,
+    "descuento": 29,
+    "descripcion": "Batería portátil para dispositivos.",
+    "detalle": "Ideal para cargar tus dispositivos cuando estás fuera de casa.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/powerbank-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/powerbank-blanco.jpg"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nombre": "Cargador rápido",
+    "categoria": "Electrónica",
+    "precio": 299,
+    "precioAnterior": 399,
+    "descuento": 25,
+    "descripcion": "Cargador rápido para dispositivos.",
+    "detalle": "Diseñado para cargar dispositivos de forma eficiente.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/cargador-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/cargador-blanco.jpg"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "Cable USB",
+    "categoria": "Electrónica",
+    "precio": 149,
+    "precioAnterior": 199,
+    "descuento": 25,
+    "descripcion": "Cable USB resistente.",
+    "detalle": "Ideal para cargar y conectar dispositivos.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/cable-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/cable-blanco.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/cable-rojo.jpg"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "Lámpara LED",
+    "categoria": "Electrónica",
+    "precio": 399,
+    "precioAnterior": 599,
+    "descuento": 33,
+    "descripcion": "Lámpara LED moderna.",
+    "detalle": "Iluminación práctica para escritorio o habitación.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/lampara-negra.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/lampara-blanca.jpg"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "nombre": "Webcam HD",
+    "categoria": "Electrónica",
+    "precio": 599,
+    "precioAnterior": 799,
+    "descuento": 25,
+    "descripcion": "Webcam HD para computadora.",
+    "detalle": "Ideal para videollamadas, clases y transmisiones.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/webcam-negra.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/webcam-blanca.jpg"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "Control inalámbrico",
+    "categoria": "Electrónica",
+    "precio": 799,
+    "precioAnterior": 999,
+    "descuento": 20,
+    "descripcion": "Control inalámbrico para videojuegos.",
+    "detalle": "Diseño ergonómico y conexión inalámbrica.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/control-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/control-blanco.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/control-azul.jpg"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "nombre": "Playera deportiva",
+    "categoria": "Ropa",
+    "precio": 349,
+    "precioAnterior": 449,
+    "descuento": 22,
+    "descripcion": "Playera deportiva ligera.",
+    "detalle": "Tela cómoda para realizar actividades físicas.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/playera-deportiva-negra.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/playera-deportiva-blanca.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/playera-deportiva-azul.jpg"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "Short deportivo",
+    "categoria": "Ropa",
+    "precio": 299,
+    "precioAnterior": 399,
+    "descuento": 25,
+    "descripcion": "Short deportivo cómodo.",
+    "detalle": "Ligero y adecuado para actividades físicas.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/short-negro.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/short-azul.jpg"
+      },
+      {
+        "nombre": "Gris",
+        "imagen": "imagenes/short-gris.jpg"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "Calcetas deportivas",
+    "categoria": "Ropa",
+    "precio": 149,
+    "precioAnterior": 199,
+    "descuento": 25,
+    "descripcion": "Calcetas deportivas cómodas.",
+    "detalle": "Diseñadas para ofrecer comodidad durante todo el día.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/calcetas-negras.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/calcetas-blancas.jpg"
+      },
+      {
+        "nombre": "Gris",
+        "imagen": "imagenes/calcetas-grises.jpg"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "nombre": "Hoodie",
+    "categoria": "Ropa",
+    "precio": 699,
+    "precioAnterior": 899,
+    "descuento": 22,
+    "descripcion": "Hoodie cómodo y moderno.",
+    "detalle": "Diseño casual y tela suave.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/hoodie-negro.jpg"
+      },
+      {
+        "nombre": "Gris",
+        "imagen": "imagenes/hoodie-gris.jpg"
+      },
+      {
+        "nombre": "Rosa",
+        "imagen": "imagenes/hoodie-rosa.jpg"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "nombre": "Chamarra casual",
+    "categoria": "Ropa",
+    "precio": 999,
+    "precioAnterior": 1299,
+    "descuento": 23,
+    "descripcion": "Chamarra casual moderna.",
+    "detalle": "Diseño versátil y material resistente.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/chamarra-negra.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/chamarra-azul.jpg"
+      },
+      {
+        "nombre": "Verde",
+        "imagen": "imagenes/chamarra-verde.jpg"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "nombre": "Tenis para correr",
+    "categoria": "Calzado",
+    "precio": 899,
+    "precioAnterior": 1199,
+    "descuento": 25,
+    "descripcion": "Tenis diseñados para correr.",
+    "detalle": "Ligereza, comodidad y soporte para actividades deportivas.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/tenis-correr-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/tenis-correr-blanco.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/tenis-correr-rojo.jpg"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "nombre": "Zapatos urbanos",
+    "categoria": "Calzado",
+    "precio": 799,
+    "precioAnterior": 999,
+    "descuento": 20,
+    "descripcion": "Zapatos urbanos modernos.",
+    "detalle": "Diseño cómodo para combinar con diferentes estilos.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/zapatos-urbanos-negro.jpg"
+      },
+      {
+        "nombre": "Café",
+        "imagen": "imagenes/zapatos-urbanos-cafe.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/zapatos-urbanos-blanco.jpg"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "nombre": "Pantuflas",
+    "categoria": "Calzado",
+    "precio": 249,
+    "precioAnterior": 349,
+    "descuento": 29,
+    "descripcion": "Pantuflas suaves y cómodas.",
+    "detalle": "Ideales para descansar en casa.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/pantuflas-negras.jpg"
+      },
+      {
+        "nombre": "Gris",
+        "imagen": "imagenes/pantuflas-grises.jpg"
+      },
+      {
+        "nombre": "Rosa",
+        "imagen": "imagenes/pantuflas-rosas.jpg"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "nombre": "Zapatos formales",
+    "categoria": "Calzado",
+    "precio": 999,
+    "precioAnterior": 1299,
+    "descuento": 23,
+    "descripcion": "Zapatos formales elegantes.",
+    "detalle": "Ideales para eventos, reuniones y ocasiones especiales.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/zapatos-formales-negro.jpg"
+      },
+      {
+        "nombre": "Café",
+        "imagen": "imagenes/zapatos-formales-cafe.jpg"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "nombre": "Sandalias deportivas",
+    "categoria": "Calzado",
+    "precio": 349,
+    "precioAnterior": 449,
+    "descuento": 22,
+    "descripcion": "Sandalias deportivas ligeras.",
+    "detalle": "Cómodas para caminar y realizar actividades al aire libre.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/sandalias-deportivas-negras.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/sandalias-deportivas-azules.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/sandalias-deportivas-rojas.jpg"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "nombre": "Tablet",
+    "categoria": "Electrónica",
+    "precio": 2499,
+    "precioAnterior": 2999,
+    "descuento": 17,
+    "descripcion": "Tablet moderna para entretenimiento y trabajo.",
+    "detalle": "Pantalla amplia y diseño ligero.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/tablet-negra.jpg"
+      },
+      {
+        "nombre": "Plata",
+        "imagen": "imagenes/tablet-plata.jpg"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "nombre": "Bocina portátil",
+    "categoria": "Electrónica",
+    "precio": 599,
+    "precioAnterior": 799,
+    "descuento": 25,
+    "descripcion": "Bocina portátil Bluetooth.",
+    "detalle": "Compacta, resistente y fácil de transportar.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/bocina-portatil-negra.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/bocina-portatil-azul.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/bocina-portatil-roja.jpg"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "nombre": "Teclado inalámbrico",
+    "categoria": "Electrónica",
+    "precio": 499,
+    "precioAnterior": 699,
+    "descuento": 29,
+    "descripcion": "Teclado inalámbrico para computadora.",
+    "detalle": "Diseño compacto y conexión inalámbrica.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/teclado-inalambrico-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/teclado-inalambrico-blanco.jpg"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "nombre": "Mouse gamer",
+    "categoria": "Electrónica",
+    "precio": 599,
+    "precioAnterior": 799,
+    "descuento": 25,
+    "descripcion": "Mouse gamer de alta precisión.",
+    "detalle": "Diseñado para videojuegos y uso intensivo.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/mouse-gamer-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/mouse-gamer-blanco.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/mouse-gamer-rojo.jpg"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "nombre": "Soporte para celular",
+    "categoria": "Accesorios",
+    "precio": 199,
+    "precioAnterior": 299,
+    "descuento": 33,
+    "descripcion": "Soporte ajustable para celular.",
+    "detalle": "Permite colocar el celular en diferentes posiciones.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/soporte-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/soporte-blanco.jpg"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "nombre": "Mochila deportiva",
+    "categoria": "Accesorios",
+    "precio": 599,
+    "precioAnterior": 799,
+    "descuento": 25,
+    "descripcion": "Mochila deportiva resistente.",
+    "detalle": "Amplio espacio para ropa y accesorios deportivos.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/mochila-deportiva-negra.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/mochila-deportiva-azul.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/mochila-deportiva-roja.jpg"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "nombre": "Bolsa deportiva",
+    "categoria": "Accesorios",
+    "precio": 499,
+    "precioAnterior": 699,
+    "descuento": 29,
+    "descripcion": "Bolsa deportiva amplia.",
+    "detalle": "Ideal para gimnasio, viajes cortos y actividades deportivas.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/bolsa-deportiva-negra.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/bolsa-deportiva-azul.jpg"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "nombre": "Gorra deportiva",
+    "categoria": "Accesorios",
+    "precio": 249,
+    "precioAnterior": 349,
+    "descuento": 29,
+    "descripcion": "Gorra deportiva ajustable.",
+    "detalle": "Ligera y cómoda para actividades al aire libre.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/gorra-deportiva-negra.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/gorra-deportiva-blanca.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/gorra-deportiva-azul.jpg"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "nombre": "Playera polo",
+    "categoria": "Ropa",
+    "precio": 399,
+    "precioAnterior": 499,
+    "descuento": 20,
+    "descripcion": "Playera polo clásica.",
+    "detalle": "Diseño elegante y cómodo para diferentes ocasiones.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/polo-negro.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/polo-blanco.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/polo-azul.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/polo-rojo.jpg"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "nombre": "Pantalón deportivo",
+    "categoria": "Ropa",
+    "precio": 499,
+    "precioAnterior": 699,
+    "descuento": 29,
+    "descripcion": "Pantalón deportivo cómodo.",
+    "detalle": "Diseñado para ejercicio y actividades casuales.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/pantalon-deportivo-negro.jpg"
+      },
+      {
+        "nombre": "Gris",
+        "imagen": "imagenes/pantalon-deportivo-gris.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/pantalon-deportivo-azul.jpg"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "nombre": "Camisa polo",
+    "categoria": "Ropa",
+    "precio": 449,
+    "precioAnterior": 599,
+    "descuento": 25,
+    "descripcion": "Camisa polo elegante y cómoda.",
+    "detalle": "Ideal para un estilo casual o semiformal.",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/camisa-polo-blanca.jpg"
+      },
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/camisa-polo-negra.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/camisa-polo-azul.jpg"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "nombre": "Reloj clásico",
+    "categoria": "Accesorios",
+    "precio": 799,
+    "precioAnterior": 999,
+    "descuento": 20,
+    "descripcion": "Reloj clásico elegante.",
+    "detalle": "Diseño tradicional para complementar cualquier estilo.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/reloj-negro.jpg"
+      },
+      {
+        "nombre": "Plata",
+        "imagen": "imagenes/reloj-plata.jpg"
+      },
+      {
+        "nombre": "Café",
+        "imagen": "imagenes/reloj-cafe.jpg"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "nombre": "Lentes de sol",
+    "categoria": "Accesorios",
+    "precio": 349,
+    "precioAnterior": 499,
+    "descuento": 30,
+    "descripcion": "Lentes de sol modernos.",
+    "detalle": "Diseño ligero para complementar tu estilo.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/lentes-negros.jpg"
+      },
+      {
+        "nombre": "Café",
+        "imagen": "imagenes/lentes-cafe.jpg"
+      },
+      {
+        "nombre": "Blanco",
+        "imagen": "imagenes/lentes-blancos.jpg"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "nombre": "Paraguas",
+    "categoria": "Accesorios",
+    "precio": 299,
+    "precioAnterior": 399,
+    "descuento": 25,
+    "descripcion": "Paraguas resistente para lluvia.",
+    "detalle": "Diseño práctico y fácil de transportar.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/paraguas-negro.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/paraguas-azul.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/paraguas-rojo.jpg"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "nombre": "Maleta de viaje",
+    "categoria": "Accesorios",
+    "precio": 1299,
+    "precioAnterior": 1699,
+    "descuento": 24,
+    "descripcion": "Maleta resistente para viajes.",
+    "detalle": "Amplio espacio interior y diseño práctico para viajar.",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "imagen": "imagenes/maleta-negra.jpg"
+      },
+      {
+        "nombre": "Azul",
+        "imagen": "imagenes/maleta-azul.jpg"
+      },
+      {
+        "nombre": "Rojo",
+        "imagen": "imagenes/maleta-roja.jpg"
+      }
+    ]
+  }
+]
